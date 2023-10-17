@@ -1,5 +1,4 @@
 Projeto 01
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 Projeto para utilização de cadastro de endereço utilizando o viacep. Utiizando controle de versão com git e github.
 
